@@ -1,0 +1,4 @@
+rootfs/
+OVMF_*
+*.erofs*
+prepare_qemu_disk.sh
